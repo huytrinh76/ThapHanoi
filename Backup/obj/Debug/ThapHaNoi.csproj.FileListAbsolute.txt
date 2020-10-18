@@ -1,0 +1,8 @@
+E:\ThapHanoi\Backup\bin\Debug\ThapHaNoi.exe
+E:\ThapHanoi\Backup\bin\Debug\ThapHaNoi.pdb
+E:\ThapHanoi\Backup\obj\Debug\ThapHaNoi.csprojAssemblyReference.cache
+E:\ThapHanoi\Backup\obj\Debug\ThapHaNoi.Properties.Resources.resources
+E:\ThapHanoi\Backup\obj\Debug\ThapHaNoi.csproj.GenerateResource.cache
+E:\ThapHanoi\Backup\obj\Debug\ThapHaNoi.csproj.CoreCompileInputs.cache
+E:\ThapHanoi\Backup\obj\Debug\ThapHaNoi.exe
+E:\ThapHanoi\Backup\obj\Debug\ThapHaNoi.pdb

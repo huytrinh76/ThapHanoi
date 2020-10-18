@@ -1,0 +1,8 @@
+C:\Users\Murdock\Downloads\Compressed\ThapHaNoi\bin\Debug\ThapHaNoi.exe
+C:\Users\Murdock\Downloads\Compressed\ThapHaNoi\bin\Debug\ThapHaNoi.pdb
+C:\Users\Murdock\Downloads\Compressed\ThapHaNoi\obj\Debug\ThapHaNoi.csprojAssemblyReference.cache
+C:\Users\Murdock\Downloads\Compressed\ThapHaNoi\obj\Debug\ThapHaNoi.Properties.Resources.resources
+C:\Users\Murdock\Downloads\Compressed\ThapHaNoi\obj\Debug\ThapHaNoi.csproj.GenerateResource.cache
+C:\Users\Murdock\Downloads\Compressed\ThapHaNoi\obj\Debug\ThapHaNoi.csproj.CoreCompileInputs.cache
+C:\Users\Murdock\Downloads\Compressed\ThapHaNoi\obj\Debug\ThapHaNoi.exe
+C:\Users\Murdock\Downloads\Compressed\ThapHaNoi\obj\Debug\ThapHaNoi.pdb
